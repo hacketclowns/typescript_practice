@@ -1,0 +1,1 @@
+const age: NUMBER = 15;
